@@ -1,13 +1,12 @@
-# ?? Python Iniciante
+# Python Iniciante
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python) ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
+Aprendendo Python e os fundamentos dessa linguagem de programacao.
 
-Bem-vindo ao repositorio **Python Iniciante**! ?? Este repositorio e dedicado a quem esta comecando a aprender Python e deseja entender os fundamentos dessa poderosa linguagem de programacao.
+## O que voce encontrara aqui
 
-## ?? O que voce encontrara aqui
-
-? Introducao ao Python e sua sintaxe basica<br>
-? Estruturas de controle de fluxo (condicionais e loops)<br>
+:white_check_mark: Introducao ao Python e sua sintaxe basica<br>
+:white_check_mark: Estruturas de controle de fluxo (condicionais e loops)<br>
 ? Funcoes e modulos<br>
 ? Manipulacao de listas, dicionarios e outros tipos de dados<br>
 ? Tratamento de erros e excecoes<br>
