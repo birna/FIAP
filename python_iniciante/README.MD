@@ -1,6 +1,7 @@
 # Python Iniciante
 
 ![Python](https://img.shields.io/badge/Python-3%2B-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 Aprendendo Python e os fundamentos dessa linguagem de programacao.
 
 ## :open_book: O que voce encontrara aqui
