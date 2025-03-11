@@ -1,0 +1,11 @@
+
+Inteiros = I
+Reais    = R
+Texto    = T
+Loigcio  = L
+
+Telefone    = T
+Email       = T
+Preco       = R
+Matriculado = L
+Idade       = I
