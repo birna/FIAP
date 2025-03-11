@@ -19,18 +19,18 @@ python --version
 
 Caso nao tenha o Python instalado, baixe-o [aqui](https://www.python.org/downloads/).
 
-## ?? Como usar este repositorio
+## :rocket: Como usar este repositorio
 
 1. Clone o repositorio:
 
    ```sh
-   git clone https://github.com/seu-usuario/python-iniciante.git
+   git clone https://github.com/birna/FIAP.git
    ```
 
 2. Acesse a pasta do projeto:
 
    ```sh
-   cd python-iniciante
+   cd python_iniciante
    ```
 
 3. Execute os scripts disponiveis:
